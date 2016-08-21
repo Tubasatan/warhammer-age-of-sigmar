@@ -5846,7 +5846,7 @@
     </entry>
     <entry id="5a93-6cd1-a1ae-4d4a" name="Irondrakes" points="0.0" categoryId="(No Category)" type="unit" minSelections="0" maxSelections="-1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
       <entries>
-        <entry id="a1e1-10b0-8797-da7d" name="10 Irondrakes" points="160.0" categoryId="(No Category)" type="unit" minSelections="1" maxSelections="3" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
+        <entry id="a1e1-10b0-8797-da7d" name="10 Irondrakes" points="220.0" categoryId="(No Category)" type="unit" minSelections="1" maxSelections="3" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
           <entries/>
           <entryGroups/>
           <modifiers/>
